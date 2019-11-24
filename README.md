@@ -1,5 +1,7 @@
 # Topicos de Telemática - Proyecto de Big Data
 
+Video-sustentación: https://youtu.be/1GedQ4K5oPo
+
 Por: Diego Andrés Giraldo Gómez
 
 Estos fueron los pasos que seguí para realizar el proyecto:
