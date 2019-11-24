@@ -1,4 +1,4 @@
-# Topicos-BigData
+# Topicos de Telemática - Proyecto de Big Data
 
 Por: Diego Andrés Giraldo Gómez
 
